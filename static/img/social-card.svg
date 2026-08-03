@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<rect width="1200" height="630" fill="#0f172a"/>
+<circle cx="1050" cy="100" r="240" fill="#2563eb" opacity=".2"/>
+<text x="90" y="250" fill="white" font-size="76" font-family="Arial, sans-serif" font-weight="700">Mihomo 小小白</text>
+<text x="90" y="335" fill="#93c5fd" font-size="42" font-family="Arial, sans-serif">用人话理解 Mihomo</text>
+<text x="90" y="430" fill="#cbd5e1" font-size="28" font-family="Arial, sans-serif">从代理、节点、规则，到 DNS、TUN 与配置</text>
+</svg>
