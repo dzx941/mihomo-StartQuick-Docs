@@ -23,7 +23,7 @@ export default function Home() {
           <div className="container">
             <div className={styles.badge}>MIHOMO · LEVEL 0</div>
             <Heading as="h1">Mihomo 小小白文档</Heading>
-            <p className={styles.subtitle}>用人话理解 Mihomo。</p>
+            <p className={styles.subtitle}>用人话理解 Mihomo</p>
             <p className={styles.description}>
               不懂代理、不懂网络、不懂 YAML？没关系。
               <br />
