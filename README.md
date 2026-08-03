@@ -1,4 +1,4 @@
-# Mihomo 小小白
+# Mihomo 小小白文档
 
 一个基于 Docusaurus 的 Mihomo 入门文档站。
 
