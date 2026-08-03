@@ -6,11 +6,11 @@ const config = {
   tagline: '用人话理解 Mihomo',
   favicon: 'img/favicon.svg',
 
-  url: 'mihomo.qd.je',
+  url: 'https://mihomo.qd.je',
   baseUrl: '/',
 
-  organizationName: 'example',
-  projectName: 'mihomo-docs',
+  organizationName: 'dzx941',
+  projectName: 'mihomo-StartQuick-Docs',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
